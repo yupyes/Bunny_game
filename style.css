@@ -10,10 +10,10 @@
     margin: auto;
 }
 #character{
-    width: 20px;
+    width: 40px;
     height: 50px;
     background-color: red;
-    position: relative;
+    position:relative;
     top: 150px;
 }
 .animate{
@@ -28,8 +28,8 @@
 
 #block{
     background-color: blue;
-    width: 20px;
-    height: 20px;
+    width: 40px;
+    height: 50px;
     position: relative;
     top: 130px;
     left: 500px;
